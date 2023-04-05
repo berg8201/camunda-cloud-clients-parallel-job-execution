@@ -22,3 +22,9 @@ node_modules
 bin
 obj
 .vscode
+*.original
+java-worker/src/main/java/io/berndruecker/experiments/cloudclient/java/ParallelJobsJavaApplication.java
+java-worker/target/maven-archiver/pom.properties
+java-worker/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+java-worker/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+java-worker/target/classes/application.properties
